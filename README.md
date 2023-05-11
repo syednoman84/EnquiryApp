@@ -1,6 +1,10 @@
 # EnquiryApp
 Spring Data JPA Project Work - Beginner To Expert Level
 
+# Schema Design
+<img width="874" alt="image" src="https://github.com/syednoman84/EnquiryApp/assets/24880733/3e07ff75-462b-4911-b5b9-a97dbdb3a25b">
+
+
 PURPOSE:
 We developed this project to learn Spring Data JPA for Production Ready Project. Suitable for Beginner to Expert Java Spring Developers.
 
